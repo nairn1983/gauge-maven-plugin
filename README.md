@@ -86,7 +86,7 @@ mvn gauge:execute -DspecsDir=specs -Denv="dev"
 
 ### As a part of maven test phase
 
-Run gauge specs in project as a part of maven test phase by adding the below execution to yor pom.xml
+Run gauge specs in project as a part of maven test phase by adding the below execution to your pom.xml
 
 ```
 <build>
